@@ -14,6 +14,8 @@ safe-outputs:
   create-pull-request: {}
 
 network: defaults
+
+engine: copilot
 ---
 
 # Astro — Workflow de scaffolding del blog Hugo
